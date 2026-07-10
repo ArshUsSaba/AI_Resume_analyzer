@@ -1,0 +1,24 @@
+Position: Machine Learning Engineer - AI Platform (NVIDIA Capstone Target)
+Company: NVIDIA Corporation
+Location: Santa Clara, CA (Hybrid)
+
+About the Team:
+Our team builds hardware-accelerated deep learning platforms and runtime engines that power the world's most advanced AI models. We bridge the gap between high-level ML frameworks and specialized GPU architectures.
+
+Key Responsibilities:
+- Develop, optimize, and deploy deep learning models using PyTorch, TensorFlow, and custom operations.
+- Leverage GPU acceleration using CUDA programming and parallel computing primitives.
+- Optimize deep learning inference performance using NVIDIA TensorRT, ONNX, and model quantization.
+- Containerize machine learning workloads with Docker and deploy using Kubernetes (k8s) clusters.
+- Establish robust automated CI/CD pipelines to build, package, and release model serving endpoints.
+- Design efficient ETL data pipelines to process massive multimodal datasets.
+- Implement system designs that ensure high availability, parallel computing throughput, and low latency.
+
+Basic Qualifications:
+- Bachelor's or Master's degree in Computer Science, Computer Engineering, or related technical discipline.
+- Solid software engineering foundations in Python, C++, and Bash scripting.
+- Practical experience with deep learning models, particularly Transformers and neural networks.
+- Basic understanding of CUDA and GPU programming paradigms.
+- Experience with DevOps tools: Git, Docker, Kubernetes, and CI/CD pipelines.
+- Strong understanding of relational databases and SQL queries.
+- Familiarity with Agile software development practices.
